@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:17:1-156:12
+INJECTED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:17:1-156:12
+INJECTED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:17:1-156:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\c2792e4a39828f6ad5a1f13355c8ce5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\6d6a0a2277fa33cacafd1d5199f9845e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\4513d42069de5afb7a73b5472c6d49b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\7d5a75a22299ba2c26216862c671d728\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\e39a1938edf6ce877b0cac0f8f7e3a86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\8fc2d81974eb8fee8fb1a19ac2ee421d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\f2173a688494d6be45c202926b63c0a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\9a7a86651dbd62dad7c132bdeef5c003\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\6df231b4ec6d6127cba5580adf8b3656\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\4118a04beed92dadf2b585292ff426e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\566e362e0cd19c04b1ddb23505477a53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\b785757a957c28c10d87691587ba96c8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\4a231e0db8296c7eb1dedf5329b5f42d\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:17:1-156:12
+INJECTED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:17:1-156:12
+	package
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:19:5-35
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:18:5-63
+	android:versionCode
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:20:5-33
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:22:5-23:67
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:23:9-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:24:5-25:65
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:25:9-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:26:5-27:53
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:27:9-51
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:28:5-29:52
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:29:9-50
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:30:5-31:68
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:31:9-65
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:32:5-33:58
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:33:9-55
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:34:5-35:61
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:35:9-58
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:36:5-37:67
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:37:9-64
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:38:5-39:64
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:39:9-61
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:40:5-41:65
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:41:9-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:43:5-44:58
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:44:9-56
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:45:5-46:59
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:46:9-57
+uses-permission#android.permission.READ_CALENDAR
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:47:5-48:58
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:48:9-56
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:49:5-50:59
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:50:9-57
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:51:5-52:60
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:52:9-58
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:55:5-56:54
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:56:9-52
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:57:5-58:61
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:58:9-59
+uses-permission#com.android.email.permission.READ_ATTACHMENT
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:60:5-61:70
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:61:9-68
+uses-permission#com.android.email.permission.ACCESS_PROVIDER
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:62:5-63:70
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:63:9-68
+uses-sdk
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:65:5-74
+INJECTED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:65:5-74
+INJECTED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:65:5-74
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\c2792e4a39828f6ad5a1f13355c8ce5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\c2792e4a39828f6ad5a1f13355c8ce5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\6d6a0a2277fa33cacafd1d5199f9845e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\6d6a0a2277fa33cacafd1d5199f9845e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\4513d42069de5afb7a73b5472c6d49b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\4513d42069de5afb7a73b5472c6d49b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\7d5a75a22299ba2c26216862c671d728\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\7d5a75a22299ba2c26216862c671d728\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\e39a1938edf6ce877b0cac0f8f7e3a86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\e39a1938edf6ce877b0cac0f8f7e3a86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\8fc2d81974eb8fee8fb1a19ac2ee421d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\8fc2d81974eb8fee8fb1a19ac2ee421d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\f2173a688494d6be45c202926b63c0a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\f2173a688494d6be45c202926b63c0a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\9a7a86651dbd62dad7c132bdeef5c003\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\9a7a86651dbd62dad7c132bdeef5c003\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\6df231b4ec6d6127cba5580adf8b3656\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\6df231b4ec6d6127cba5580adf8b3656\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\4118a04beed92dadf2b585292ff426e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\4118a04beed92dadf2b585292ff426e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\566e362e0cd19c04b1ddb23505477a53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\566e362e0cd19c04b1ddb23505477a53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\b785757a957c28c10d87691587ba96c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\b785757a957c28c10d87691587ba96c8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\4a231e0db8296c7eb1dedf5329b5f42d\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\4a231e0db8296c7eb1dedf5329b5f42d\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:65:5-74
+INJECTED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:65:5-74
+	android:targetSdkVersion
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:65:15-44
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:65:45-71
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:69:5-155:19
+	android:requiredAccountType
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:73:9-59
+	android:label
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:71:9-41
+	android:icon
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:70:9-36
+	android:theme
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:74:9-56
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:72:9-32
+service#com.android.exchange.service.EasService
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:77:9-85:19
+	android:exported
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:79:17-40
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:78:17-71
+intent-filter#com.android.email.EXCHANGE_INTENT
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:80:13-83:29
+action#com.android.email.EXCHANGE_INTENT
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:81:17-82:76
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:82:25-73
+service#com.android.exchange.service.EmailSyncAdapterService
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:88:9-97:19
+	android:exported
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:90:13-36
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:89:13-80
+intent-filter#android.content.SyncAdapter
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:91:13-94:29
+action#android.content.SyncAdapter
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:92:17-93:66
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:93:21-63
+meta-data#android.content.SyncAdapter
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:95:13-96:68
+	android:resource
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:96:24-65
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:95:24-66
+service#com.android.exchange.service.ContactsSyncAdapterService
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:100:9-109:19
+	android:exported
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:102:13-36
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:101:13-83
+service#com.android.exchange.service.CalendarSyncAdapterService
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:112:9-121:19
+	android:exported
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:114:13-36
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:113:13-83
+provider#com.android.exchange.provider.ExchangeDirectoryProvider
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:123:9-133:20
+	android:readPermission
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:126:13-70
+	android:authorities
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:125:13-74
+	android:multiprocess
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:127:13-41
+	android:exported
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:128:13-36
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:124:13-83
+meta-data#android.content.ContactDirectory
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:130:11-132:37
+	android:value
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:132:15-35
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:131:15-62
+activity#com.android.exchange.EasCertificateRequestor
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:135:9-141:20
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:135:19-58
+intent-filter#android.intent.category.DEFAULT+com.android.email.EXCHANGE_REQUEST_CERT
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:136:13-140:29
+action#com.android.email.EXCHANGE_REQUEST_CERT
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:137:17-82
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:137:25-79
+data
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:138:17-74
+	android:path
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:138:44-71
+	android:scheme
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:138:23-43
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:139:17-76
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:139:27-73
+activity#com.android.exchange.SettingsRedirector
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:142:9-147:20
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:142:19-53
+intent-filter#android.intent.action.MANAGE_NETWORK_USAGE+android.intent.category.DEFAULT
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:143:13-146:29
+action#android.intent.action.MANAGE_NETWORK_USAGE
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:144:17-85
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:144:25-82
+receiver#com.android.exchange.ExchangeBroadcastReceiver
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:149:9-153:20
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:149:19-59
+intent-filter#android.accounts.LOGIN_ACCOUNTS_CHANGED
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:150:13-152:29
+action#android.accounts.LOGIN_ACCOUNTS_CHANGED
+ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:151:17-82
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\main\AndroidManifest.xml:151:25-79

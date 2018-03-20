@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="__local_aars__:C.\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\apache-mime4j-core-0.7.2.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/apache-mime4j-core-0.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/app/src/apache-mime4j-core-0.7.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/app/src/apache-mime4j-core-0.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

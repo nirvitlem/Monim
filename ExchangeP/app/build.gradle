@@ -1,0 +1,50 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 26
+    buildToolsVersion "26.0.2"
+
+    defaultConfig {
+        applicationId "com.android.exchange"
+        minSdkVersion 14
+        targetSdkVersion 19
+
+        testApplicationId "com.android.exchange.tests"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.google.guava:guava:16.0.1'
+    implementation files('src/commons-codec-1.10.jar')
+    implementation files('src/commons-logging-1.1.jar')
+    implementation files('src/apache-mime4j-0.3-source.jar')
+    implementation files('src/commons-io-2.6-javadoc.jar')
+    implementation files('src/commons-io-2.6-sources.jar')
+    implementation files('src/commons-io-2.6-test-sources.jar')
+    implementation files('src/commons-io-2.6-tests.jar')
+    implementation files('src/commons-io-2.6.jar')
+    implementation files('src/commons-logging-1.2.jar')
+    implementation files('src/fluent-hc-4.5.4.jar')
+    implementation files('src/httpclient-4.5.4.jar')
+    implementation files('src/httpclient-cache-4.5.4.jar')
+    implementation files('src/httpclient-win-4.5.4.jar')
+    implementation files('src/httpcore-4.4.7.jar')
+    implementation files('src/httpmime-4.5.4.jar')
+    implementation files('src/jna-4.4.0.jar')
+    implementation files('src/jna-platform-4.4.0.jar')
+    implementation files('src/apache-mime4j-0.3.jar')
+    implementation files('src/apache-mime4j-core-0.7.2.jar')
+    implementation 'com.android.support:support-v4:27.0.2'
+    implementation 'com.android.support:appcompat-v7:27.0.2'
+    implementation 'com.android.support:gridlayout-v7:27.0.2'
+    implementation 'com.android.support:cardview-v7:27.0.2'
+    implementation 'com.android.support:support-v13:27.0.2'
+    implementation 'com.nineoldandroids:library:2.4.0'
+}

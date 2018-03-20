@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navega a la pàgina d\'inici"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navega cap a dalt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Més opcions"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fet"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Mostra\'ls tots"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecciona una aplicació"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESACTIVAT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cerca..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Esborra la consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de cerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envia la consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Cerca per veu"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Comparteix amb"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Comparteix amb <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Replega"</string>
+    <string msgid="4169162439752592189" name="account_setup_options_mail_window_1day">"Un dia"</string>
+    <string msgid="4785039795926771180" name="account_setup_options_mail_window_1month">"Un mes"</string>
+    <string msgid="5066291978475859713" name="account_setup_options_mail_window_1week">"Una setmana"</string>
+    <string msgid="2127842445792663461" name="account_setup_options_mail_window_2weeks">"Dues setmanes"</string>
+    <string msgid="2330167870774583574" name="account_setup_options_mail_window_3days">"Tres dies"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"Tots"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"Automàtic"</string>
+    <string msgid="1707639359526090662" name="app_name">"Serveis d\'Exchange"</string>
+    <string msgid="3590528965691740509" name="auth_error_notification_text">"Toca per editar la configuració del compte <ns1:g id="ACCOUNT">%s</ns1:g>"</string>
+    <string msgid="6768042010440968454" name="auth_error_notification_title">"Error d\'autenticació"</string>
+    <string msgid="59579952494440349" name="email_settings_not_available">"Torna a activar l\'aplicació Correu per consultar-ne la configuració."</string>
+    <string msgid="8972887597771126871" name="exception_cancel">"Aquest esdeveniment s\'ha cancel·lat al dia <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="329192591551400871" name="exception_updated">"Els detalls d\'aquest esdeveniment han canviat al dia <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="3212429159225789973" name="meeting_accepted">"Acceptada: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="7251209063071628040" name="meeting_allday">"Quan: <ns1:g id="EVENTDATE">%s</ns1:g> (tot el dia)"</string>
+    <string msgid="4545762363537362545" name="meeting_allday_recurring">"Quan: <ns1:g id="EVENTDATE">%s</ns1:g> (tot el dia, periòdic)"</string>
+    <string msgid="3913922862382539900" name="meeting_canceled">"Cancel·lada: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1171426219920875691" name="meeting_declined">"Rebutjada: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="2752008481765880928" name="meeting_recurring">"Quan: <ns1:g id="EVENTDATE">%s</ns1:g> (periòdica)"</string>
+    <string msgid="5057443956630531997" name="meeting_tentative">"Provisional: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="5960663236439072658" name="meeting_updated">"Actualitzada: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1905576664682173880" name="meeting_when">"Quan: <ns1:g id="WHEN">%s</ns1:g>"</string>
+    <string msgid="6498631574145121862" name="meeting_where">"On: <ns1:g id="WHERE">%s</ns1:g>"</string>
+    <string msgid="6955451921925210944" name="policy_app_blacklist">"No permetis aplicacions especificades"</string>
+    <string msgid="73673250614393830" name="policy_app_whitelist">"Permet només les aplicacions especif."</string>
+    <string msgid="2877695021606992022" name="policy_bluetooth_restricted">"Restringeix l\'ús de Bluetooth"</string>
+    <string msgid="8422502533001368811" name="policy_dont_allow_attachments">"No permetis fitxers adjunts"</string>
+    <string msgid="241728112385525092" name="policy_dont_allow_browser">"No permetis els navegadors"</string>
+    <string msgid="2473755560531860915" name="policy_dont_allow_consumer_email">"No permetis correus electr. de consum."</string>
+    <string msgid="3909470006782362967" name="policy_dont_allow_html">"No permetis el correu electrònic HTML"</string>
+    <string msgid="8926902533477728994" name="policy_dont_allow_internet_sharing">"No permetis la compartició per Internet"</string>
+    <string msgid="8230803019935893114" name="policy_dont_allow_irda">"No permetis comunicacions per infraroigs"</string>
+    <string msgid="5772539239469636191" name="policy_dont_allow_pop_imap">"No permetis els comptes POP3 ni IMAP"</string>
+    <string msgid="1305111581282078881" name="policy_dont_allow_storage_cards">"No permetis targetes d\'emmagatzematge"</string>
+    <string msgid="860590081742537792" name="policy_dont_allow_text_messaging">"No permetis els missatges de text"</string>
+    <string msgid="7663879438028397642" name="policy_dont_allow_unsigned_apps">"No permetis aplicacions no signades"</string>
+    <string msgid="8227232531632246827" name="policy_dont_allow_unsigned_installers">"No permetis instal. d\'aplic. no sign."</string>
+    <string msgid="8501275982154914194" name="policy_dont_allow_wifi">"No permetis la Wi-Fi"</string>
+    <string msgid="4913206221060438112" name="policy_html_truncation">"Restringeix mida del correu electr. HTML"</string>
+    <string msgid="8872049367518056209" name="policy_max_attachment_size">"Restringeix la mida del fitxer adjunt"</string>
+    <string msgid="4176146021220010140" name="policy_require_encryption">"Requereix l\'encriptació del dispositiu"</string>
+    <string msgid="4779633041935012627" name="policy_require_manual_sync_roaming">"Permet només sincr. manual en itinerància"</string>
+    <string msgid="3911913080904633038" name="policy_require_sd_encryption">"Requereix l\'encriptació de targetes SD"</string>
+    <string msgid="6445017199744800426" name="policy_require_smime">"Requereix missatges SMIME"</string>
+    <string msgid="2098855720139889616" name="policy_text_truncation">"Restring. mida de correu electr. de text"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Cerca"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+</resources>

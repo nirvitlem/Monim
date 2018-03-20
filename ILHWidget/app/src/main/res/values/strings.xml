@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ILHWidget</string>
+    <string name="appwidget_text">ILHWidge</string>
+    <string name="configure">Configure refesh (sec)</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_string">empty_string</string>
+
+</resources>

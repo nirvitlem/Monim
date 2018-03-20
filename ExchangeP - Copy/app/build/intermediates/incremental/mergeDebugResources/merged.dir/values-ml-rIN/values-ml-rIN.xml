@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4169162439752592189" name="account_setup_options_mail_window_1day">"ഒരു ദിവസം"</string>
+    <string msgid="4785039795926771180" name="account_setup_options_mail_window_1month">"ഒരു മാസം"</string>
+    <string msgid="5066291978475859713" name="account_setup_options_mail_window_1week">"ഒരു ആഴ്‌ച"</string>
+    <string msgid="2127842445792663461" name="account_setup_options_mail_window_2weeks">"രണ്ട് ആഴ്‌ച"</string>
+    <string msgid="2330167870774583574" name="account_setup_options_mail_window_3days">"മൂന്ന് ദിവസം"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"എല്ലാം"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"യാന്ത്രികം"</string>
+    <string msgid="1707639359526090662" name="app_name">"Exchange സേവനങ്ങൾ"</string>
+    <string msgid="3590528965691740509" name="auth_error_notification_text">"<ns1:g id="ACCOUNT">%s</ns1:g> എന്നതിനായി അക്കൗണ്ട് ക്രമീകരണങ്ങൾ എഡിറ്റുചെയ്യാൻ സ്‌പർശിക്കുക"</string>
+    <string msgid="6768042010440968454" name="auth_error_notification_title">"പ്രാമാണീകരണ പിശക്"</string>
+    <string msgid="59579952494440349" name="email_settings_not_available">"ക്രമീകരണങ്ങൾ കാണുന്നതിന് ഇമെയിൽ അപ്ലിക്കേഷൻ വീണ്ടും പ്രവർത്തനക്ഷമമാക്കുക."</string>
+    <string msgid="8972887597771126871" name="exception_cancel">"ഈ തീയതിയ്‌ക്കുള്ള ഇവന്റ് റദ്ദാക്കി: <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="329192591551400871" name="exception_updated">"ഈ ഇവന്റിനായുള്ള വിശദാംശങ്ങൾ മാറ്റി: <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="3212429159225789973" name="meeting_accepted">"അംഗീകരിച്ചു: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="7251209063071628040" name="meeting_allday">"എപ്പോൾ: <ns1:g id="EVENTDATE">%s</ns1:g> (എല്ലാ ദിവസവും)"</string>
+    <string msgid="4545762363537362545" name="meeting_allday_recurring">"എപ്പോൾ: <ns1:g id="EVENTDATE">%s</ns1:g> (എല്ലാ ദിവസവും, ആവർത്തിക്കുന്നത്)"</string>
+    <string msgid="3913922862382539900" name="meeting_canceled">"റദ്ദാക്കി: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1171426219920875691" name="meeting_declined">"നിരസിച്ചു: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="2752008481765880928" name="meeting_recurring">"എപ്പോൾ: <ns1:g id="EVENTDATE">%s</ns1:g> (ആവർത്തിക്കുന്നത്‌)"</string>
+    <string msgid="5057443956630531997" name="meeting_tentative">"പരീക്ഷണാത്മകം: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="5960663236439072658" name="meeting_updated">"അപ്‌ഡേറ്റുചെയ്‌തു: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1905576664682173880" name="meeting_when">"എപ്പോൾ: <ns1:g id="WHEN">%s</ns1:g>"</string>
+    <string msgid="6498631574145121862" name="meeting_where">"എവിടെ: <ns1:g id="WHERE">%s</ns1:g>"</string>
+    <string msgid="6955451921925210944" name="policy_app_blacklist">"വ്യക്തമാക്കിയ അപ്ലിക്കേഷനുകളെ അനുവദിക്കരുത്"</string>
+    <string msgid="73673250614393830" name="policy_app_whitelist">"വ്യക്തമാക്കിയ അപ്ലിക്കേഷനുകളെ മാത്രം അനുവദിക്കുക"</string>
+    <string msgid="2877695021606992022" name="policy_bluetooth_restricted">"Bluetooth ഉപയോഗം നിയന്ത്രിക്കുക"</string>
+    <string msgid="8422502533001368811" name="policy_dont_allow_attachments">"അറ്റാച്ചുമെന്റുകൾ അനുവദിക്കരുത്"</string>
+    <string msgid="241728112385525092" name="policy_dont_allow_browser">"ബ്രൗസറുകൾ അനുവദിക്കരുത്"</string>
+    <string msgid="2473755560531860915" name="policy_dont_allow_consumer_email">"ഉപയോക്തൃ ഇമെയിൽ അനുവദിക്കരുത്"</string>
+    <string msgid="3909470006782362967" name="policy_dont_allow_html">"HTML ഇമെയിൽ അനുവദിക്കരുത്"</string>
+    <string msgid="8926902533477728994" name="policy_dont_allow_internet_sharing">"ഇന്റർനെറ്റ് പങ്കിടൽ അനുവദിക്കരുത്"</string>
+    <string msgid="8230803019935893114" name="policy_dont_allow_irda">"ഇൻഫ്രാറെഡ് ആശയവിനിമയങ്ങൾ അനുവദിക്കരുത്"</string>
+    <string msgid="5772539239469636191" name="policy_dont_allow_pop_imap">"POP3 അല്ലെങ്കിൽ IMAP അക്കൗണ്ടുകൾ അനുവദിക്കരുത്"</string>
+    <string msgid="1305111581282078881" name="policy_dont_allow_storage_cards">"സംഭരണ കാർഡുകൾ അനുവദിക്കരുത്"</string>
+    <string msgid="860590081742537792" name="policy_dont_allow_text_messaging">"വാചക സന്ദേശം അനുവദിക്കരുത്"</string>
+    <string msgid="7663879438028397642" name="policy_dont_allow_unsigned_apps">"സൈൻ ചെയ്‌തിട്ടില്ലാത്ത അപ്ലിക്കേഷനുകളെ അനുവദിക്കരുത്"</string>
+    <string msgid="8227232531632246827" name="policy_dont_allow_unsigned_installers">"സൈൻ ചെയ്‌തിട്ടില്ലാത്ത അപ്ലിക്കേഷൻ ഇൻസ്റ്റാളറുകളെ അനുവദിക്കരുത്"</string>
+    <string msgid="8501275982154914194" name="policy_dont_allow_wifi">"Wi-Fi അനുവദിക്കരുത്"</string>
+    <string msgid="4913206221060438112" name="policy_html_truncation">"HTML ഇമെയിൽ വലുപ്പം നിയന്ത്രിക്കുക"</string>
+    <string msgid="8872049367518056209" name="policy_max_attachment_size">"അറ്റാച്ചുമെന്റ് വലുപ്പം നിയന്ത്രിക്കുക"</string>
+    <string msgid="4176146021220010140" name="policy_require_encryption">"ഉപകരണ എൻക്രിപ്‌ഷൻ ആവശ്യമാണ്"</string>
+    <string msgid="4779633041935012627" name="policy_require_manual_sync_roaming">"റോമിംഗിലായിരിക്കുമ്പോൾ സ്വമേധയാലുള്ള സമന്വയം മാത്രം അനുവദിക്കുക"</string>
+    <string msgid="3911913080904633038" name="policy_require_sd_encryption">"SD കാർഡ് എൻക്രിപ്‌ഷൻ ആവശ്യമാണ്"</string>
+    <string msgid="6445017199744800426" name="policy_require_smime">"SMIME സന്ദേശങ്ങൾ ആവശ്യമാണ്"</string>
+    <string msgid="2098855720139889616" name="policy_text_truncation">"ടെക്‌സ്റ്റ് ഇമെയിൽ വലുപ്പം നിയന്ത്രിക്കുക"</string>
+</resources>

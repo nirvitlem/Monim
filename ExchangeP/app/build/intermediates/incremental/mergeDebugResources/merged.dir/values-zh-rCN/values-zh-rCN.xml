@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"使用<ns1:g id="APPLICATION_NAME">%s</ns1:g>分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string msgid="4169162439752592189" name="account_setup_options_mail_window_1day">"一天"</string>
+    <string msgid="4785039795926771180" name="account_setup_options_mail_window_1month">"一个月"</string>
+    <string msgid="5066291978475859713" name="account_setup_options_mail_window_1week">"一周"</string>
+    <string msgid="2127842445792663461" name="account_setup_options_mail_window_2weeks">"两周"</string>
+    <string msgid="2330167870774583574" name="account_setup_options_mail_window_3days">"三天"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"全部"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"自动"</string>
+    <string msgid="1707639359526090662" name="app_name">"Exchange服务"</string>
+    <string msgid="3590528965691740509" name="auth_error_notification_text">"触摸即可修改“<ns1:g id="ACCOUNT">%s</ns1:g>”的帐户设置"</string>
+    <string msgid="6768042010440968454" name="auth_error_notification_title">"身份验证出错"</string>
+    <string msgid="59579952494440349" name="email_settings_not_available">"重新启用“电子邮件”应用即可查看设置。"</string>
+    <string msgid="8972887597771126871" name="exception_cancel">"定于以下日期的活动已取消：<ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="329192591551400871" name="exception_updated">"定于以下日期的活动的详细信息已更改：<ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="3212429159225789973" name="meeting_accepted">"已接受：<ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="7251209063071628040" name="meeting_allday">"日期：<ns1:g id="EVENTDATE">%s</ns1:g>（全天）"</string>
+    <string msgid="4545762363537362545" name="meeting_allday_recurring">"日期：<ns1:g id="EVENTDATE">%s</ns1:g>（全天，循环）"</string>
+    <string msgid="3913922862382539900" name="meeting_canceled">"已取消：<ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1171426219920875691" name="meeting_declined">"已拒绝：<ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="2752008481765880928" name="meeting_recurring">"时间：<ns1:g id="EVENTDATE">%s</ns1:g>（重复）"</string>
+    <string msgid="5057443956630531997" name="meeting_tentative">"暂定：<ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="5960663236439072658" name="meeting_updated">"已更新：<ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1905576664682173880" name="meeting_when">"时间：<ns1:g id="WHEN">%s</ns1:g>"</string>
+    <string msgid="6498631574145121862" name="meeting_where">"地点：<ns1:g id="WHERE">%s</ns1:g>"</string>
+    <string msgid="6955451921925210944" name="policy_app_blacklist">"不允许使用指定的应用"</string>
+    <string msgid="73673250614393830" name="policy_app_whitelist">"只允许使用指定的应用"</string>
+    <string msgid="2877695021606992022" name="policy_bluetooth_restricted">"限制蓝牙功能"</string>
+    <string msgid="8422502533001368811" name="policy_dont_allow_attachments">"不允许下载附件"</string>
+    <string msgid="241728112385525092" name="policy_dont_allow_browser">"不允许使用浏览器"</string>
+    <string msgid="2473755560531860915" name="policy_dont_allow_consumer_email">"不允许接收消费者电子邮件"</string>
+    <string msgid="3909470006782362967" name="policy_dont_allow_html">"不允许接收 HTML 电子邮件"</string>
+    <string msgid="8926902533477728994" name="policy_dont_allow_internet_sharing">"不允许共享互联网连接"</string>
+    <string msgid="8230803019935893114" name="policy_dont_allow_irda">"不允许红外通信"</string>
+    <string msgid="5772539239469636191" name="policy_dont_allow_pop_imap">"不允许使用POP3或IMAP帐户"</string>
+    <string msgid="1305111581282078881" name="policy_dont_allow_storage_cards">"不允许使用存储卡"</string>
+    <string msgid="860590081742537792" name="policy_dont_allow_text_messaging">"不允许使用短信功能"</string>
+    <string msgid="7663879438028397642" name="policy_dont_allow_unsigned_apps">"不允许安装未签名的应用"</string>
+    <string msgid="8227232531632246827" name="policy_dont_allow_unsigned_installers">"不允许通过未签名的安装程序来安装应用"</string>
+    <string msgid="8501275982154914194" name="policy_dont_allow_wifi">"不允许使用WLAN"</string>
+    <string msgid="4913206221060438112" name="policy_html_truncation">"限制 HTML 电子邮件的大小"</string>
+    <string msgid="8872049367518056209" name="policy_max_attachment_size">"限制附件的大小"</string>
+    <string msgid="4176146021220010140" name="policy_require_encryption">"要求设备加密"</string>
+    <string msgid="4779633041935012627" name="policy_require_manual_sync_roaming">"漫游时只允许手动同步"</string>
+    <string msgid="3911913080904633038" name="policy_require_sd_encryption">"要求 SD 卡加密"</string>
+    <string msgid="6445017199744800426" name="policy_require_smime">"电子邮件必须采用 SMIME 格式"</string>
+    <string msgid="2098855720139889616" name="policy_text_truncation">"限制文本电子邮件的大小"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

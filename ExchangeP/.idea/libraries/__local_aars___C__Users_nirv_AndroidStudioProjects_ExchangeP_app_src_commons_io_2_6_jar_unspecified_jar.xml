@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="__local_aars__:C.\Users\nirv\AndroidStudioProjects\ExchangeP\app\src\commons-io-2.6.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/commons-io-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/app/src/commons-io-2.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/app/src/commons-io-2.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

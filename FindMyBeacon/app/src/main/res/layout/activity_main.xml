@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vitlem.findmybeacon.MainActivity">
+
+    <Button
+        android:text="Scan"
+        android:layout_width="90dp"
+        android:layout_height="50dp"
+        android:id="@+id/ScanB"
+        app:layout_constraintTop_toBottomOf="@+id/ListR"
+        android:layout_marginTop="48dp"
+        app:layout_constraintRight_toRightOf="@+id/activity_main" />
+
+    <Button
+        android:text="Stop"
+        android:layout_width="90dp"
+        android:layout_height="50dp"
+        android:id="@+id/ScanS"
+        app:layout_constraintTop_toBottomOf="@+id/ListR"
+        android:layout_marginTop="48dp"
+        app:layout_constraintLeft_toLeftOf="@+id/activity_main"/>
+
+    <Button
+        android:text="Find"
+        android:layout_width="90dp"
+        android:layout_height="50dp"
+        android:id="@+id/FindS"
+        app:layout_constraintTop_toBottomOf="@+id/ListR"
+        android:layout_marginTop="48dp"
+        app:layout_constraintRight_toLeftOf="@+id/ScanB"/>
+
+    <Button
+        android:text="Manage"
+        android:layout_width="90dp"
+        android:layout_height="50dp"
+        android:id="@+id/ManageS"
+        app:layout_constraintTop_toBottomOf="@+id/ListR"
+        android:layout_marginTop="48dp"
+        app:layout_constraintLeft_toRightOf="@+id/ScanS"/>
+
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="500dp"
+        android:id="@+id/ListR"
+        android:scrollbars="horizontal|vertical"
+        android:background="#8b8297a6"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TableLayout android:layout_width="fill_parent"
+        android:id="@+id/tableLayout1" android:layout_height="wrap_content">
+    </TableLayout>
+
+</android.support.constraint.ConstraintLayout>

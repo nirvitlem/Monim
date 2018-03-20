@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"होम पेज पर जाएं"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ऊपर जाएं"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ज़्यादा विकल्प"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"हो गया"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"कोई एप्‍लिकेशन चुनें"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"बंद"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"चालू"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"खोजा जा रहा है…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"क्‍वेरी साफ़ करें"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"सर्च क्वेरी"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"सर्च करें"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"आवाज़ सर्च"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"इसके द्वारा साझा करें"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> के साथ साझा करें"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"छोटा करें"</string>
+    <string msgid="4169162439752592189" name="account_setup_options_mail_window_1day">"एक दिन"</string>
+    <string msgid="4785039795926771180" name="account_setup_options_mail_window_1month">"एक माह"</string>
+    <string msgid="5066291978475859713" name="account_setup_options_mail_window_1week">"एक सप्‍ताह"</string>
+    <string msgid="2127842445792663461" name="account_setup_options_mail_window_2weeks">"दो सप्‍ताह"</string>
+    <string msgid="2330167870774583574" name="account_setup_options_mail_window_3days">"तीन दिन"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"सभी"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"स्वचालित"</string>
+    <string msgid="1707639359526090662" name="app_name">"Exchange Services"</string>
+    <string msgid="3590528965691740509" name="auth_error_notification_text">"<ns1:g id="ACCOUNT">%s</ns1:g> खाते की सेटिंग संपादित करने के लिए स्पर्श करें"</string>
+    <string msgid="6768042010440968454" name="auth_error_notification_title">"प्रमाणीकरण त्रुटि"</string>
+    <string msgid="59579952494440349" name="email_settings_not_available">"सेटिंग देखने के लिए ईमेल ऐप्लिकेशन फिर से सक्षम करें."</string>
+    <string msgid="8972887597771126871" name="exception_cancel">"यह ईवेंट इसके लिए रद्द कर दिया गया है: <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="329192591551400871" name="exception_updated">"इस ईवेंट का विवरण इसके लिए ‍बदल दिया गया है: <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="3212429159225789973" name="meeting_accepted">"स्‍वीकृत: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="7251209063071628040" name="meeting_allday">"कब: <ns1:g id="EVENTDATE">%s</ns1:g> (पूरा दिन)"</string>
+    <string msgid="4545762363537362545" name="meeting_allday_recurring">"कब: <ns1:g id="EVENTDATE">%s</ns1:g> (पूरा दिन, पुनरावृत्ति)"</string>
+    <string msgid="3913922862382539900" name="meeting_canceled">"रद्द हो गई: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1171426219920875691" name="meeting_declined">"अस्‍वीकृत: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="2752008481765880928" name="meeting_recurring">"कब: <ns1:g id="EVENTDATE">%s</ns1:g> (पुनरावर्ती)"</string>
+    <string msgid="5057443956630531997" name="meeting_tentative">"अस्थायी: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="5960663236439072658" name="meeting_updated">"अपडेट किया गया: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1905576664682173880" name="meeting_when">"कब: <ns1:g id="WHEN">%s</ns1:g>"</string>
+    <string msgid="6498631574145121862" name="meeting_where">"कहां: <ns1:g id="WHERE">%s</ns1:g>"</string>
+    <string msgid="6955451921925210944" name="policy_app_blacklist">"निर्दिष्ट ऐप्स  की अनुमति न दें"</string>
+    <string msgid="73673250614393830" name="policy_app_whitelist">"केवल निर्दिष्ट ऐप्स  की अनुमति दें"</string>
+    <string msgid="2877695021606992022" name="policy_bluetooth_restricted">"ब्लूटूथ का उपयोग प्रतिबंधित करें"</string>
+    <string msgid="8422502533001368811" name="policy_dont_allow_attachments">"अटैचमेंट की अनुमति न दें"</string>
+    <string msgid="241728112385525092" name="policy_dont_allow_browser">"ब्राउज़र को अनुमति न दें"</string>
+    <string msgid="2473755560531860915" name="policy_dont_allow_consumer_email">"उपभोक्ता ईमेल की अनुमति न दें"</string>
+    <string msgid="3909470006782362967" name="policy_dont_allow_html">"HTML ईमेल को अनुमति न दें"</string>
+    <string msgid="8926902533477728994" name="policy_dont_allow_internet_sharing">"इंटरनेट साझाकरण की अनुमति न दें"</string>
+    <string msgid="8230803019935893114" name="policy_dont_allow_irda">"अवरक्त संचारों को अनुमति न दें"</string>
+    <string msgid="5772539239469636191" name="policy_dont_allow_pop_imap">"POP3 या IMAP खातों को अनुमति न दें"</string>
+    <string msgid="1305111581282078881" name="policy_dont_allow_storage_cards">"मेमोरी कार्ड को अनुमति न दें"</string>
+    <string msgid="860590081742537792" name="policy_dont_allow_text_messaging">"लेख संदेश सेवा की अनुमति न दें"</string>
+    <string msgid="7663879438028397642" name="policy_dont_allow_unsigned_apps">"अहस्ताक्षरित ऐप्स  की अनुमति न दें"</string>
+    <string msgid="8227232531632246827" name="policy_dont_allow_unsigned_installers">"अहस्ता. ऐप्स इंस्‍टॉलर को अनुमति न दें"</string>
+    <string msgid="8501275982154914194" name="policy_dont_allow_wifi">"वाई-फ़ाई  की अनुमति न दें"</string>
+    <string msgid="4913206221060438112" name="policy_html_truncation">"HTML ईमेल का आकार प्रतिबंधित करें"</string>
+    <string msgid="8872049367518056209" name="policy_max_attachment_size">"अटैचमेंट का आकार प्रतिबंधित करें"</string>
+    <string msgid="4176146021220010140" name="policy_require_encryption">"डिवाइस एन्‍क्रिप्शन आवश्‍यक"</string>
+    <string msgid="4779633041935012627" name="policy_require_manual_sync_roaming">"रोमिंग पर मैन्‍युअल समन्वयन ही करने दें"</string>
+    <string msgid="3911913080904633038" name="policy_require_sd_encryption">"SD कार्ड एन्‍क्रिप्शन आवश्‍यक"</string>
+    <string msgid="6445017199744800426" name="policy_require_smime">"SMIME संदेश आवश्‍यक"</string>
+    <string msgid="2098855720139889616" name="policy_text_truncation">"लेख ईमेल का आकार प्रतिबंधित करें"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"सर्च"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

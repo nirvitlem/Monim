@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NFLASH</string>
+    <string name="appwidget_text">nFlash</string>
+    <string name="add_widget">AddW</string>
+</resources>

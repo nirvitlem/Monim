@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ወደ መነሻ ይዳስሱ"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ወደ ላይ ይዳስሱ"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ተጨማሪ አማራጮች"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"ተከናውኗል"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ሁሉንም ይመልከቱ"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"መተግበሪያ ይምረጡ"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ጠፍቷል"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"በርቷል"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"ፈልግ…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"መጠይቅ አጽዳ"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"የፍለጋ ጥያቄ"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"ፍለጋ"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"መጠይቅ ያስረክቡ"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"የድምፅ ፍለጋ"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ከሚከተለው ጋር ያጋሩ"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"ከ<ns1:g id="APPLICATION_NAME">%s</ns1:g> ጋር አጋራ"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"ሰብስብ"</string>
+    <string msgid="4169162439752592189" name="account_setup_options_mail_window_1day">"አንድ ቀን"</string>
+    <string msgid="4785039795926771180" name="account_setup_options_mail_window_1month">"አንድ ወር"</string>
+    <string msgid="5066291978475859713" name="account_setup_options_mail_window_1week">"አንድ ሳምንት"</string>
+    <string msgid="2127842445792663461" name="account_setup_options_mail_window_2weeks">"ሁለት ሳምንቶች"</string>
+    <string msgid="2330167870774583574" name="account_setup_options_mail_window_3days">"ሦስት ቀን"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"ሁሉም"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"ራስ ሰር"</string>
+    <string msgid="1707639359526090662" name="app_name">"Exchange አገልግሎቶች"</string>
+    <string msgid="3590528965691740509" name="auth_error_notification_text">"የ<ns1:g id="ACCOUNT">%s</ns1:g> መለያ ቅንብሮችን አርትዕ ለማድረግ ይንኩ"</string>
+    <string msgid="6768042010440968454" name="auth_error_notification_title">"የማረጋገጥ ስህተት"</string>
+    <string msgid="59579952494440349" name="email_settings_not_available">"ቅንብሮችን ለማየት የኢሜይል መተግበሪያዎችን በድጋሚ ያንቁ።"</string>
+    <string msgid="8972887597771126871" name="exception_cancel">"ይህ ከስተት ለ<ns1:g id="DATE">%s</ns1:g> ተሰርዟል።"</string>
+    <string msgid="329192591551400871" name="exception_updated">"የዚህ ክስተት ዝርዝሮች ለ፡<ns1:g id="DATE">%s</ns1:g> ተለውጠዋል"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"የማይክሮሶፍት Exchange ActiveSync"</string>
+    <string msgid="3212429159225789973" name="meeting_accepted">"ተቀብሏል፡ <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="7251209063071628040" name="meeting_allday">"የሚከተለው ሲሆን፤ <ns1:g id="EVENTDATE">%s</ns1:g> (ሁሉም ቀን)"</string>
+    <string msgid="4545762363537362545" name="meeting_allday_recurring">"የሚከተለው ሲሆን፤ <ns1:g id="EVENTDATE">%s</ns1:g> (ሁሉም ቀን፣ ተደጋጋሚ)"</string>
+    <string msgid="3913922862382539900" name="meeting_canceled">"ቀርቷል: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1171426219920875691" name="meeting_declined">"ሳይቀበል ቀረ: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="2752008481765880928" name="meeting_recurring">"መቼ፡ <ns1:g id="EVENTDATE">%s</ns1:g>(ድግግሞሽ)"</string>
+    <string msgid="5057443956630531997" name="meeting_tentative">"ጊዜያዊ፡<ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="5960663236439072658" name="meeting_updated">"የዘመነ፡<ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1905576664682173880" name="meeting_when">"መቼ:<ns1:g id="WHEN">%s</ns1:g>"</string>
+    <string msgid="6498631574145121862" name="meeting_where">"የት: <ns1:g id="WHERE">%s</ns1:g>"</string>
+    <string msgid="6955451921925210944" name="policy_app_blacklist">"የተወሰኑ ትግበራዎችን አትፍቀድ"</string>
+    <string msgid="73673250614393830" name="policy_app_whitelist">"የተወሰኑ ትግበራዎችን ብቻ ፍቀድ"</string>
+    <string msgid="2877695021606992022" name="policy_bluetooth_restricted">"የብሉቱዝ አገልግሎትን ገድብ"</string>
+    <string msgid="8422502533001368811" name="policy_dont_allow_attachments">"አባሪዎች አትፍቀድ"</string>
+    <string msgid="241728112385525092" name="policy_dont_allow_browser">"አሳሾች አትፍቀድ"</string>
+    <string msgid="2473755560531860915" name="policy_dont_allow_consumer_email">"የሸማች ኢሜይል አትፍቀድ"</string>
+    <string msgid="3909470006782362967" name="policy_dont_allow_html">"የHTML ኢሜይል አትፍቀድ"</string>
+    <string msgid="8926902533477728994" name="policy_dont_allow_internet_sharing">"የበይነ መረብ ማጋራት አትፍቀድ"</string>
+    <string msgid="8230803019935893114" name="policy_dont_allow_irda">"የታህተቀይ ግኑኙነት አትፍቀድ"</string>
+    <string msgid="5772539239469636191" name="policy_dont_allow_pop_imap">"POP3 ወይም IMAP መለያዎች አትፍቀድ"</string>
+    <string msgid="1305111581282078881" name="policy_dont_allow_storage_cards">"የማከማቻ ካርዶችን አትፍቀድ"</string>
+    <string msgid="860590081742537792" name="policy_dont_allow_text_messaging">"የፅሁፍ መልዕክት አትፍቀድ"</string>
+    <string msgid="7663879438028397642" name="policy_dont_allow_unsigned_apps">"ያልተረጋገጡ የትግበራ  አትፍቀድ"</string>
+    <string msgid="8227232531632246827" name="policy_dont_allow_unsigned_installers">"ያልተረጋገጡ የትግበራ ጫኞችን አትፍቀድ"</string>
+    <string msgid="8501275982154914194" name="policy_dont_allow_wifi">"Wi-Fi አትፍቀድ"</string>
+    <string msgid="4913206221060438112" name="policy_html_truncation">"የHTML ኢሜይል መጠን ገድብ"</string>
+    <string msgid="8872049367518056209" name="policy_max_attachment_size">"የአባሪ መጠንን ገድብ"</string>
+    <string msgid="4176146021220010140" name="policy_require_encryption">"የመሳሪያ ምስጠራ ጠይቅ"</string>
+    <string msgid="4779633041935012627" name="policy_require_manual_sync_roaming">"በእንቅስቃሴ ላይ በእጅ አመሳስል ብቻ ፍቀድ"</string>
+    <string msgid="3911913080904633038" name="policy_require_sd_encryption">"የsd ካርድ ምስጠራ ጠይቅ"</string>
+    <string msgid="6445017199744800426" name="policy_require_smime">"የSMIME መልዕክቶች ጠይቅ"</string>
+    <string msgid="2098855720139889616" name="policy_text_truncation">"የፅሁፍ ኢሜይል መጠንን ገድብ"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"ፈልግ"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

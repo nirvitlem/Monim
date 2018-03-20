@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="3965715241135811407" name="account_setup_options_mail_window_1day">"In di"</string>
+    <string msgid="5846359669750047081" name="account_setup_options_mail_window_1month">"In mais"</string>
+    <string msgid="5639718031108023741" name="account_setup_options_mail_window_1week">"Ina emna"</string>
+    <string msgid="4567049268124213035" name="account_setup_options_mail_window_2weeks">"Duas emnas"</string>
+    <string msgid="736181102295878114" name="account_setup_options_mail_window_3days">"Trais dis"</string>
+    <string msgid="6160117429428313805" name="exception_cancel">"Questa occurrenza è vegnida annullada: <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="3397583105901142050" name="exception_updated">"Ils detagls da questa occurrenza èn vegnids modifitgads: <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="5772529644749041052" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="8796609373330400268" name="meeting_accepted">"Acceptà: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="3949893881872084244" name="meeting_canceled">"Interrut: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="6707617183246608552" name="meeting_declined">"Refusà: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="3134262212606714023" name="meeting_recurring">"Cura: <ns1:g id="EVENTDATE">%s</ns1:g> (periodic)"</string>
+    <string msgid="8250995722130443785" name="meeting_tentative">"Project dad inscunter: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="8529675857361702860" name="meeting_updated">"Actualisà: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="2765696159697448656" name="meeting_when">"Cura: <ns1:g id="WHEN">%s</ns1:g>"</string>
+    <string msgid="5992367535856553079" name="meeting_where">"Nua: <ns1:g id="WHERE">%s</ns1:g>"</string>
+    <string msgid="6823659622379350159" name="notification_exchange_calendar_added">"Agiuntà in chalender Exchange"</string>
+</resources>

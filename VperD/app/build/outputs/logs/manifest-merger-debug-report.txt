@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\796d9cd47df4aa081c284736ea8e58eb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\3c9fb870f14d17d4eaf299787d655a04\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:5:5-32:19
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\796d9cd47df4aa081c284736ea8e58eb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\796d9cd47df4aa081c284736ea8e58eb\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\3c9fb870f14d17d4eaf299787d655a04\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\3c9fb870f14d17d4eaf299787d655a04\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:11:9-40
+receiver#com.vitlem.nir.vperd.MainAppWidget
+ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:12:19-48
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:13:13-15:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:14:17-84
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:14:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:17:13-19:64
+	android:resource
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:19:17-61
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:18:17-58
+activity#com.vitlem.nir.vperd.MainAppWidgetConfigureActivity
+ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:22:9-26:20
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:22:19-65
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:23:13-25:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:24:17-87
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:24:25-84
+service#com.vitlem.nir.vperd.MyService
+ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:27:9-31:19
+	android:enabled
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:28:13-58
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:33:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:34:5-75
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:34:22-72
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:35:5-67
+	android:name
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml:35:22-64
+uses-sdk
+INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\796d9cd47df4aa081c284736ea8e58eb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.0.aar\796d9cd47df4aa081c284736ea8e58eb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\3c9fb870f14d17d4eaf299787d655a04\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nirv\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\3c9fb870f14d17d4eaf299787d655a04\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nirv\AndroidStudioProjects\VperD\app\src\main\AndroidManifest.xml

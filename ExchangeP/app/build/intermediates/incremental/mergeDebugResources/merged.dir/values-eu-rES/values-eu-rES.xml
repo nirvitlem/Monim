@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4169162439752592189" name="account_setup_options_mail_window_1day">"Egun bat"</string>
+    <string msgid="4785039795926771180" name="account_setup_options_mail_window_1month">"Hilabete"</string>
+    <string msgid="5066291978475859713" name="account_setup_options_mail_window_1week">"Astebete"</string>
+    <string msgid="2127842445792663461" name="account_setup_options_mail_window_2weeks">"Bi aste"</string>
+    <string msgid="2330167870774583574" name="account_setup_options_mail_window_3days">"Hiru egun"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"Guztiak"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"Automatikoa"</string>
+    <string msgid="1707639359526090662" name="app_name">"Exchange zerbitzuak"</string>
+    <string msgid="3590528965691740509" name="auth_error_notification_text">"<ns1:g id="ACCOUNT">%s</ns1:g> kontuaren ezarpenak editatzeko, ukitu hau"</string>
+    <string msgid="6768042010440968454" name="auth_error_notification_title">"Autentifikazio-errorea"</string>
+    <string msgid="59579952494440349" name="email_settings_not_available">"Ezarpenak ikusteko, gaitu berriro posta elektronikoaren aplikazioa."</string>
+    <string msgid="8972887597771126871" name="exception_cancel">"Data honetako gertaera bertan behera utzi da: <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="329192591551400871" name="exception_updated">"Data honetako gertaeraren xehetasunak aldatu egin dira: <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="3212429159225789973" name="meeting_accepted">"Onartuta: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="7251209063071628040" name="meeting_allday">"Noiz: <ns1:g id="EVENTDATE">%s</ns1:g> (egun osoa)"</string>
+    <string msgid="4545762363537362545" name="meeting_allday_recurring">"Noiz: <ns1:g id="EVENTDATE">%s</ns1:g> (egun osoa, errepikaria)"</string>
+    <string msgid="3913922862382539900" name="meeting_canceled">"Bertan behera utzi da: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1171426219920875691" name="meeting_declined">"Baztertu egin da: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="2752008481765880928" name="meeting_recurring">"Data: <ns1:g id="EVENTDATE">%s</ns1:g> (errepikaria)"</string>
+    <string msgid="5057443956630531997" name="meeting_tentative">"Behin-behinekoa: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="5960663236439072658" name="meeting_updated">"Eguneratua: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1905576664682173880" name="meeting_when">"Data: <ns1:g id="WHEN">%s</ns1:g>"</string>
+    <string msgid="6498631574145121862" name="meeting_where">"Kokapena: <ns1:g id="WHERE">%s</ns1:g>"</string>
+    <string msgid="6955451921925210944" name="policy_app_blacklist">"Ez baimendu zehaztutako aplikazioak"</string>
+    <string msgid="73673250614393830" name="policy_app_whitelist">"Baimendu zehaztutako aplikazioak soilik"</string>
+    <string msgid="2877695021606992022" name="policy_bluetooth_restricted">"Mugatu Bluetootharen erabilera"</string>
+    <string msgid="8422502533001368811" name="policy_dont_allow_attachments">"Ez baimendu eranskinik"</string>
+    <string msgid="241728112385525092" name="policy_dont_allow_browser">"Ez baimendu arakatzaileak"</string>
+    <string msgid="2473755560531860915" name="policy_dont_allow_consumer_email">"Ez baimendu kontsumitzaile-mezurik"</string>
+    <string msgid="3909470006782362967" name="policy_dont_allow_html">"Ez baimendu HTML mezurik"</string>
+    <string msgid="8926902533477728994" name="policy_dont_allow_internet_sharing">"Ez baimendu Internet bidezko partekatzea"</string>
+    <string msgid="8230803019935893114" name="policy_dont_allow_irda">"Ez baimendu infragorri bidezko komunikaziorik"</string>
+    <string msgid="5772539239469636191" name="policy_dont_allow_pop_imap">"Ez baimendu POP3 edo IMAP konturik"</string>
+    <string msgid="1305111581282078881" name="policy_dont_allow_storage_cards">"Ez baimendu memoria-txartelik"</string>
+    <string msgid="860590081742537792" name="policy_dont_allow_text_messaging">"Ez baimendu testu-mezuak"</string>
+    <string msgid="7663879438028397642" name="policy_dont_allow_unsigned_apps">"Ez baimendu sinatu gabeko aplikaziorik"</string>
+    <string msgid="8227232531632246827" name="policy_dont_allow_unsigned_installers">"Ez baimendu sinatu gabeko aplikazio-instalatzailerik"</string>
+    <string msgid="8501275982154914194" name="policy_dont_allow_wifi">"Ez baimendu Wi-Fi konexiorik"</string>
+    <string msgid="4913206221060438112" name="policy_html_truncation">"Mugatu HTML mezu elektronikoen tamaina"</string>
+    <string msgid="8872049367518056209" name="policy_max_attachment_size">"Mugatu eranskinen tamaina"</string>
+    <string msgid="4176146021220010140" name="policy_require_encryption">"Eskatu gailua enkriptatzea"</string>
+    <string msgid="4779633041935012627" name="policy_require_manual_sync_roaming">"Baimendu eskuzko sinkronizazioa soilik ibiltaritzan"</string>
+    <string msgid="3911913080904633038" name="policy_require_sd_encryption">"Eskatu SD txartela enkriptatzea"</string>
+    <string msgid="6445017199744800426" name="policy_require_smime">"Eskatu SMIME mezuak"</string>
+    <string msgid="2098855720139889616" name="policy_text_truncation">"Mugatu mezu elektronikoen testuaren tamaina"</string>
+</resources>

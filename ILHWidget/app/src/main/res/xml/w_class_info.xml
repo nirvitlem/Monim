@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="250dp" android:minHeight="40dp" android:updatePeriodMillis="3"
+    android:previewImage="@drawable/example_appwidget_preview"
+    android:initialLayout="@layout/w_class"
+    android:configure="com.vitlem.ilhwidget.wClassConfigureActivity"
+    android:resizeMode="horizontal|vertical" android:widgetCategory="keyguard|home_screen"
+    android:initialKeyguardLayout="@layout/w_class"></appwidget-provider>

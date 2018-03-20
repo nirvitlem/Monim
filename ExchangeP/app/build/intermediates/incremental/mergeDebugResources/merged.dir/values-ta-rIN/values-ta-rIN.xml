@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4169162439752592189" name="account_setup_options_mail_window_1day">"ஒரு நாள்"</string>
+    <string msgid="4785039795926771180" name="account_setup_options_mail_window_1month">"ஒரு மாதம்"</string>
+    <string msgid="5066291978475859713" name="account_setup_options_mail_window_1week">"ஒரு வாரம்"</string>
+    <string msgid="2127842445792663461" name="account_setup_options_mail_window_2weeks">"இரண்டு வாரங்கள்"</string>
+    <string msgid="2330167870774583574" name="account_setup_options_mail_window_3days">"மூன்று நாட்கள்"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"எல்லாம்"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"தானியங்கு"</string>
+    <string msgid="1707639359526090662" name="app_name">"Exchange சேவைகள்"</string>
+    <string msgid="3590528965691740509" name="auth_error_notification_text">"<ns1:g id="ACCOUNT">%s</ns1:g> க்கான கணக்கு அமைப்புகளை மாற்ற தொடவும்"</string>
+    <string msgid="6768042010440968454" name="auth_error_notification_title">"அங்கீகரிப்புப் பிழை"</string>
+    <string msgid="59579952494440349" name="email_settings_not_available">"அமைப்புகளைக் காட்ட மின்னஞ்சல் பயன்பாட்டை மீண்டும் இயக்கவும்."</string>
+    <string msgid="8972887597771126871" name="exception_cancel">"பின்வரும் நாளிற்கான நிகழ்வு ரத்துசெய்யப்பட்டது: <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="329192591551400871" name="exception_updated">"பின்வரும் நாளிற்கான நிகழ்வின் விவரங்கள் மாற்றப்பட்டன: <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="3212429159225789973" name="meeting_accepted">"ஏற்கப்பட்டது: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="7251209063071628040" name="meeting_allday">"எப்போது: <ns1:g id="EVENTDATE">%s</ns1:g> (நாள் முழுதும்)"</string>
+    <string msgid="4545762363537362545" name="meeting_allday_recurring">"எப்போது: <ns1:g id="EVENTDATE">%s</ns1:g> (நாள் முழுவதும், மீண்டும் மீண்டும்)"</string>
+    <string msgid="3913922862382539900" name="meeting_canceled">"ரத்துசெய்யப்பட்டது: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1171426219920875691" name="meeting_declined">"மறுக்கப்பட்டது: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="2752008481765880928" name="meeting_recurring">"எப்போது: <ns1:g id="EVENTDATE">%s</ns1:g> (மீண்டும் மீண்டும்)"</string>
+    <string msgid="5057443956630531997" name="meeting_tentative">"தற்காலிகமானது: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="5960663236439072658" name="meeting_updated">"புதுப்பிக்கப்பட்டது: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1905576664682173880" name="meeting_when">"எப்போது: <ns1:g id="WHEN">%s</ns1:g>"</string>
+    <string msgid="6498631574145121862" name="meeting_where">"எங்கே: <ns1:g id="WHERE">%s</ns1:g>"</string>
+    <string msgid="6955451921925210944" name="policy_app_blacklist">"குறிப்பிட்ட பயன்பாடுகளை அனுமதிக்க வேண்டாம்"</string>
+    <string msgid="73673250614393830" name="policy_app_whitelist">"குறிப்பிட்ட பயன்பாடுகளை மட்டும் அனுமதி"</string>
+    <string msgid="2877695021606992022" name="policy_bluetooth_restricted">"புளூடூத் பயன்பாட்டைக் கட்டுப்படுத்து"</string>
+    <string msgid="8422502533001368811" name="policy_dont_allow_attachments">"இணைப்புகளை அனுமதிக்க வேண்டாம்"</string>
+    <string msgid="241728112385525092" name="policy_dont_allow_browser">"உலாவிகளை அனுமதிக்காதே"</string>
+    <string msgid="2473755560531860915" name="policy_dont_allow_consumer_email">"வாடிக்கையாளர் மின்னஞ்சலை அனுமதிக்க வேண்டாம்"</string>
+    <string msgid="3909470006782362967" name="policy_dont_allow_html">"HTML மின்னஞ்சலை அனுமதிக்க வேண்டாம்"</string>
+    <string msgid="8926902533477728994" name="policy_dont_allow_internet_sharing">"இணையப் பகிர்வை அனுமதிக்க வேண்டாம்"</string>
+    <string msgid="8230803019935893114" name="policy_dont_allow_irda">"அகச்சிவப்பு இணைப்புகளை அனுமதிக்க வேண்டாம்"</string>
+    <string msgid="5772539239469636191" name="policy_dont_allow_pop_imap">"POP3 அல்லது IMAP கணக்குகளை அனுமதிக்க வேண்டாம்"</string>
+    <string msgid="1305111581282078881" name="policy_dont_allow_storage_cards">"சேமிப்பு கார்டுகளை அனுமதிக்க வேண்டாம்"</string>
+    <string msgid="860590081742537792" name="policy_dont_allow_text_messaging">"உரை செய்தியை அனுமதிக்காதே"</string>
+    <string msgid="7663879438028397642" name="policy_dont_allow_unsigned_apps">"கையொப்பமிடாத பயன்பாடுகளை அனுமதிக்க வேண்டாம்"</string>
+    <string msgid="8227232531632246827" name="policy_dont_allow_unsigned_installers">"கையொப்பமிடாத பயன்பாட்டு நிறுவிகளை அனுமதிக்காதே"</string>
+    <string msgid="8501275982154914194" name="policy_dont_allow_wifi">"வைஃபையை அனுமதிக்க வேண்டாம்"</string>
+    <string msgid="4913206221060438112" name="policy_html_truncation">"HTML மின்னஞ்சல் அளவை வரம்பிடு"</string>
+    <string msgid="8872049367518056209" name="policy_max_attachment_size">"இணைப்பின் அளவை வரம்பிடு"</string>
+    <string msgid="4176146021220010140" name="policy_require_encryption">"சாதனக் குறியாக்கத்தைக் கோரு"</string>
+    <string msgid="4779633041935012627" name="policy_require_manual_sync_roaming">"ரோமிங்கில் கைமுறையாக ஒத்திசைப்பதை மட்டும் அனுமதி"</string>
+    <string msgid="3911913080904633038" name="policy_require_sd_encryption">"SD கார்டு குறியாக்கத்தைக் கோரு"</string>
+    <string msgid="6445017199744800426" name="policy_require_smime">"SMIME வடிவச் செய்திகளைக் கோரு"</string>
+    <string msgid="2098855720139889616" name="policy_text_truncation">"உரை மின்னஞ்சல் அளவை வரம்பிடு"</string>
+</resources>

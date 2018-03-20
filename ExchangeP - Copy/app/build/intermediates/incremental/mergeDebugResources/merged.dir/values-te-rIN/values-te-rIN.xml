@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4169162439752592189" name="account_setup_options_mail_window_1day">"ఒక రోజు"</string>
+    <string msgid="4785039795926771180" name="account_setup_options_mail_window_1month">"ఒక నెల"</string>
+    <string msgid="5066291978475859713" name="account_setup_options_mail_window_1week">"ఒక వారం"</string>
+    <string msgid="2127842445792663461" name="account_setup_options_mail_window_2weeks">"రెండు వారాలు"</string>
+    <string msgid="2330167870774583574" name="account_setup_options_mail_window_3days">"మూడు రోజులు"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"అన్నీ"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"స్వయంచాలకం"</string>
+    <string msgid="1707639359526090662" name="app_name">"Exchange సేవలు"</string>
+    <string msgid="3590528965691740509" name="auth_error_notification_text">"<ns1:g id="ACCOUNT">%s</ns1:g> యొక్క ఖాతా సెట్టింగ్‌లను సవరించడానికి తాకండి"</string>
+    <string msgid="6768042010440968454" name="auth_error_notification_title">"ప్రామాణీకరణ లోపం"</string>
+    <string msgid="59579952494440349" name="email_settings_not_available">"సెట్టింగ్‌లను వీక్షించడానికి Email అనువర్తనాన్ని పునఃప్రారంభించండి."</string>
+    <string msgid="8972887597771126871" name="exception_cancel">"ఈ తేదీన జరగాల్సిన ఈ ఈవెంట్ రద్దు చేయబడింది: <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="329192591551400871" name="exception_updated">"ఈ ఈవెంట్ యొక్క వివరాలు ఈ తేదీన మార్చబడ్డాయి: <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="3212429159225789973" name="meeting_accepted">"ఆమోదించబడినది: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="7251209063071628040" name="meeting_allday">"ఎప్పుడు: <ns1:g id="EVENTDATE">%s</ns1:g> (మొత్తం రోజు)"</string>
+    <string msgid="4545762363537362545" name="meeting_allday_recurring">"ఎప్పుడు: <ns1:g id="EVENTDATE">%s</ns1:g> (మొత్తం రోజు, పునరావృతం)"</string>
+    <string msgid="3913922862382539900" name="meeting_canceled">"రద్దు చేయబడినది: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1171426219920875691" name="meeting_declined">"తిరస్కరించబడినది: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="2752008481765880928" name="meeting_recurring">"ఎప్పుడు: <ns1:g id="EVENTDATE">%s</ns1:g> (పునరావృతం)"</string>
+    <string msgid="5057443956630531997" name="meeting_tentative">"ప్రాయోగికం: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="5960663236439072658" name="meeting_updated">"నవీకరించబడినది: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1905576664682173880" name="meeting_when">"ఎప్పుడు: <ns1:g id="WHEN">%s</ns1:g>"</string>
+    <string msgid="6498631574145121862" name="meeting_where">"ఎక్కడ: <ns1:g id="WHERE">%s</ns1:g>"</string>
+    <string msgid="6955451921925210944" name="policy_app_blacklist">"పేర్కొన్న అనువర్తనాలను అనుమతించవద్దు"</string>
+    <string msgid="73673250614393830" name="policy_app_whitelist">"పేర్కొన్న అనువర్తనాలను మాత్రమే అనుమతించండి"</string>
+    <string msgid="2877695021606992022" name="policy_bluetooth_restricted">"బ్లూటూత్ వినియోగాన్ని పరిమితం చేయండి"</string>
+    <string msgid="8422502533001368811" name="policy_dont_allow_attachments">"జోడింపులను అనుమతించవద్దు"</string>
+    <string msgid="241728112385525092" name="policy_dont_allow_browser">"బ్రౌజర్‌లను అనుమతించవద్దు"</string>
+    <string msgid="2473755560531860915" name="policy_dont_allow_consumer_email">"వినియోగదారు ఇమెయిల్‌ను అనుమతించవద్దు"</string>
+    <string msgid="3909470006782362967" name="policy_dont_allow_html">"HTML ఇమెయిల్‌ను అనుమతించవద్దు"</string>
+    <string msgid="8926902533477728994" name="policy_dont_allow_internet_sharing">"ఇంటర్నెట్ భాగస్వామ్యాన్ని అనుమతించవద్దు"</string>
+    <string msgid="8230803019935893114" name="policy_dont_allow_irda">"ఇన్‌ఫ్రారెడ్ కమ్యూనికేషన్‌లను అనుమతించవద్దు"</string>
+    <string msgid="5772539239469636191" name="policy_dont_allow_pop_imap">"POP3 లేదా IMAP ఖాతాలను అనుమతించవద్దు"</string>
+    <string msgid="1305111581282078881" name="policy_dont_allow_storage_cards">"నిల్వ కార్డులను అనుమతించవద్దు"</string>
+    <string msgid="860590081742537792" name="policy_dont_allow_text_messaging">"వచన సందేశాన్ని అనుమతించవద్దు"</string>
+    <string msgid="7663879438028397642" name="policy_dont_allow_unsigned_apps">"సంతకం లేని అనువర్తనాలను అనుమతించవద్దు"</string>
+    <string msgid="8227232531632246827" name="policy_dont_allow_unsigned_installers">"సంతకం లేని అనువర్తన ఇన్‌స్టాలర్‌లను అనుమతించవద్దు"</string>
+    <string msgid="8501275982154914194" name="policy_dont_allow_wifi">"Wi-Fiని అనుమతించవద్దు"</string>
+    <string msgid="4913206221060438112" name="policy_html_truncation">"HTML ఇమెయిల్ పరిమాణాన్ని పరిమితం చేయండి"</string>
+    <string msgid="8872049367518056209" name="policy_max_attachment_size">"జోడింపు పరిమాణాన్ని పరిమితం చేయండి"</string>
+    <string msgid="4176146021220010140" name="policy_require_encryption">"పరికర గుప్తీకరణ అవసరం"</string>
+    <string msgid="4779633041935012627" name="policy_require_manual_sync_roaming">"రోమింగ్‌లో మాన్యువల్ సమకాలీకరణ మాత్రమే అనుమతించు"</string>
+    <string msgid="3911913080904633038" name="policy_require_sd_encryption">"SD కార్డు గుప్తీకరణ అవసరం"</string>
+    <string msgid="6445017199744800426" name="policy_require_smime">"SMIME సందేశాలు అవసరం"</string>
+    <string msgid="2098855720139889616" name="policy_text_truncation">"వచన ఇమెయిల్ పరిమాణాన్ని పరిమితం చేయండి"</string>
+</resources>

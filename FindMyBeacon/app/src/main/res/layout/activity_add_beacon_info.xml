@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_add_beacon_info"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vitlem.findmybeacon.AddBeaconInfo">
+
+    <TextView
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:text="Udid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="52dp"
+        android:id="@+id/textUdid"
+        android:textSize="18sp"
+        android:textStyle="normal|bold"
+        app:layout_constraintCenterX_toCenterX="@+id/activity_add_beacon_info"/>
+
+    <Button
+        android:text="Save"
+        android:layout_width="90dp"
+        android:layout_height="50dp"
+        android:id="@+id/SaveB"
+        app:layout_constraintTop_toBottomOf="@+id/textName"
+        android:layout_marginTop="120dp"
+        app:layout_constraintCenterX_toCenterX="@+id/activity_add_beacon_info"/>
+
+    <EditText
+        android:layout_width="217dp"
+        android:layout_height="44dp"
+        android:inputType="textPersonName"
+        android:text="Name"
+        android:ems="10"
+        android:id="@+id/textName"
+        app:layout_constraintTop_toBottomOf="@+id/textUdid"
+        android:layout_marginTop="88dp"
+        app:layout_constraintCenterX_toCenterX="@+id/activity_add_beacon_info"/>
+</android.support.constraint.ConstraintLayout>

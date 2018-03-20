@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Điều hướng về trang chủ"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Điều hướng lên trên"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Thêm tùy chọn"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Xong"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Xem tất cả"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Chọn một ứng dụng"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"TẮT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BẬT"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Tìm kiếm…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Xóa truy vấn"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Tìm kiếm truy vấn"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Tìm kiếm"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Gửi truy vấn"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Tìm kiếm bằng giọng nói"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Chia sẻ với"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Chia sẻ với <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Thu gọn"</string>
+    <string msgid="4169162439752592189" name="account_setup_options_mail_window_1day">"Một ngày"</string>
+    <string msgid="4785039795926771180" name="account_setup_options_mail_window_1month">"Một tháng"</string>
+    <string msgid="5066291978475859713" name="account_setup_options_mail_window_1week">"Một tuần"</string>
+    <string msgid="2127842445792663461" name="account_setup_options_mail_window_2weeks">"Hai tuần"</string>
+    <string msgid="2330167870774583574" name="account_setup_options_mail_window_3days">"Ba ngày"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"Tất cả"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"Tự động"</string>
+    <string msgid="1707639359526090662" name="app_name">"Các dịch vụ của Exchange"</string>
+    <string msgid="3590528965691740509" name="auth_error_notification_text">"Chạm để chỉnh sửa cài đặt tài khoản cho <ns1:g id="ACCOUNT">%s</ns1:g>"</string>
+    <string msgid="6768042010440968454" name="auth_error_notification_title">"Lỗi xác thực"</string>
+    <string msgid="59579952494440349" name="email_settings_not_available">"Bật lại ứng dụng Email để xem cài đặt."</string>
+    <string msgid="8972887597771126871" name="exception_cancel">"Sự kiện này đã bị hủy cho: <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="329192591551400871" name="exception_updated">"Chi tiết về sự kiện này đã được thay đổi cho: <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="3212429159225789973" name="meeting_accepted">"Được chấp nhận: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="7251209063071628040" name="meeting_allday">"Thời gian: <ns1:g id="EVENTDATE">%s</ns1:g> (cả ngày)"</string>
+    <string msgid="4545762363537362545" name="meeting_allday_recurring">"Thời gian: <ns1:g id="EVENTDATE">%s</ns1:g> (cả ngày, lặp lại)"</string>
+    <string msgid="3913922862382539900" name="meeting_canceled">"Đã hủy: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1171426219920875691" name="meeting_declined">"Đã từ chối: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="2752008481765880928" name="meeting_recurring">"Thời gian: <ns1:g id="EVENTDATE">%s</ns1:g> (lặp lại)"</string>
+    <string msgid="5057443956630531997" name="meeting_tentative">"Dự kiến: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="5960663236439072658" name="meeting_updated">"Đã cập nhật: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1905576664682173880" name="meeting_when">"Thời gian: <ns1:g id="WHEN">%s</ns1:g>"</string>
+    <string msgid="6498631574145121862" name="meeting_where">"Địa điểm: <ns1:g id="WHERE">%s</ns1:g>"</string>
+    <string msgid="6955451921925210944" name="policy_app_blacklist">"Ko cho phép các ứng dụng được chỉ định"</string>
+    <string msgid="73673250614393830" name="policy_app_whitelist">"Chỉ cho phép các ứng dụng được chỉ định"</string>
+    <string msgid="2877695021606992022" name="policy_bluetooth_restricted">"Hạn chế sử dụng Bluetooth"</string>
+    <string msgid="8422502533001368811" name="policy_dont_allow_attachments">"Không cho phép tệp đính kèm"</string>
+    <string msgid="241728112385525092" name="policy_dont_allow_browser">"Không cho phép trình duyệt"</string>
+    <string msgid="2473755560531860915" name="policy_dont_allow_consumer_email">"Không cho phép email của người dùng"</string>
+    <string msgid="3909470006782362967" name="policy_dont_allow_html">"Không cho phép email HTML"</string>
+    <string msgid="8926902533477728994" name="policy_dont_allow_internet_sharing">"Không cho phép chia sẻ kết nối Internet"</string>
+    <string msgid="8230803019935893114" name="policy_dont_allow_irda">"Không cho phép giao tiếp bằng hồng ngoại"</string>
+    <string msgid="5772539239469636191" name="policy_dont_allow_pop_imap">"Không cho phép tài khoản POP3 hoặc IMAP"</string>
+    <string msgid="1305111581282078881" name="policy_dont_allow_storage_cards">"Không cho phép thẻ lưu trữ"</string>
+    <string msgid="860590081742537792" name="policy_dont_allow_text_messaging">"Không cho phép nhắn tin văn bản"</string>
+    <string msgid="7663879438028397642" name="policy_dont_allow_unsigned_apps">"Không cho phép ứng dụng chưa kiểm tra"</string>
+    <string msgid="8227232531632246827" name="policy_dont_allow_unsigned_installers">"Ko cho phép tr.cài đặt ứ.dụng chưa k.tra"</string>
+    <string msgid="8501275982154914194" name="policy_dont_allow_wifi">"Không cho phép Wi-Fi"</string>
+    <string msgid="4913206221060438112" name="policy_html_truncation">"Hạn chế kích thước email HTML"</string>
+    <string msgid="8872049367518056209" name="policy_max_attachment_size">"Hạn chế kích thước của tệp đính kèm"</string>
+    <string msgid="4176146021220010140" name="policy_require_encryption">"Yêu cầu mã hóa thiết bị"</string>
+    <string msgid="4779633041935012627" name="policy_require_manual_sync_roaming">"Chỉ được đ.bộ hóa thủ công khi ch.vùng"</string>
+    <string msgid="3911913080904633038" name="policy_require_sd_encryption">"Yêu cầu mã hóa thẻ SD"</string>
+    <string msgid="6445017199744800426" name="policy_require_smime">"Yêu cầu tin nhắn  SMIME"</string>
+    <string msgid="2098855720139889616" name="policy_text_truncation">"Hạn chế kích thước email văn bản"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Tìm kiếm"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

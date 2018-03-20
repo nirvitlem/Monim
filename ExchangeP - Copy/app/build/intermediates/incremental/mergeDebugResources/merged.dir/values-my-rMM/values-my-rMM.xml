@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4169162439752592189" name="account_setup_options_mail_window_1day">"တစ်ရက်"</string>
+    <string msgid="4785039795926771180" name="account_setup_options_mail_window_1month">"တစ်လ"</string>
+    <string msgid="5066291978475859713" name="account_setup_options_mail_window_1week">"တစ်ပတ်"</string>
+    <string msgid="2127842445792663461" name="account_setup_options_mail_window_2weeks">"နှစ်ပတ်"</string>
+    <string msgid="2330167870774583574" name="account_setup_options_mail_window_3days">"သုံးရက်"</string>
+    <string msgid="4794683936065721438" name="account_setup_options_mail_window_all">"အားလုံး"</string>
+    <string msgid="7407981634952005775" name="account_setup_options_mail_window_auto">"အလိုအလျောက်"</string>
+    <string msgid="1707639359526090662" name="app_name">"လဲလှယ်ရေး ၀န်ဆောင်မှုများ"</string>
+    <string msgid="3590528965691740509" name="auth_error_notification_text">"<ns1:g id="ACCOUNT">%s</ns1:g> အတွက် အကောင့် ဆက်တင်ကို တည်းဖြတ်ရန် ထိပါ"</string>
+    <string msgid="6768042010440968454" name="auth_error_notification_title">"အထောက်အထားစိစစ်မှု အမှား"</string>
+    <string msgid="59579952494440349" name="email_settings_not_available">"ဆက်တင်များကို ကြည့်နိုင်ရန် အီးမေးလ် အပလီကေးရှင်းကို ပြန်ပြီး ဖွင့်ပေးပါ။"</string>
+    <string msgid="8972887597771126871" name="exception_cancel">"ဤဖြစ်ရပ်ကို <ns1:g id="DATE">%s</ns1:g> အတွက် ဖျက်သိမ်းလိုက်သည်။"</string>
+    <string msgid="329192591551400871" name="exception_updated">"ဤဖြစ်ရပ်အတွက် အသေးစိတ်များကို ပြောင်းခဲ့သည်မှာ: <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="293118547772095111" name="exchange_name_alternate">"Microsoft Exchange ActiveSync"</string>
+    <string msgid="3212429159225789973" name="meeting_accepted">"<ns1:g id="SUBJECT">%s</ns1:g> ကို လက်ခံခဲ့"</string>
+    <string msgid="7251209063071628040" name="meeting_allday">"အချိန်: <ns1:g id="EVENTDATE">%s</ns1:g> (တစ်နေ့လုံး)"</string>
+    <string msgid="4545762363537362545" name="meeting_allday_recurring">"အချိန်: <ns1:g id="EVENTDATE">%s</ns1:g> (တစ်နေ့လုံး၊ ထပ်ဖြစ်နေ)"</string>
+    <string msgid="3913922862382539900" name="meeting_canceled">"ပယ်ဖျက်ခဲ့: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1171426219920875691" name="meeting_declined">"ငြင်းပယ်ခဲ့: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="2752008481765880928" name="meeting_recurring">"အချိန်: <ns1:g id="EVENTDATE">%s</ns1:g> (ထပ်ဖြစ်နေ)"</string>
+    <string msgid="5057443956630531997" name="meeting_tentative">"အစမ်း: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="5960663236439072658" name="meeting_updated">"မွမ်းမံပြီး: <ns1:g id="SUBJECT">%s</ns1:g>"</string>
+    <string msgid="1905576664682173880" name="meeting_when">"အချိန်: <ns1:g id="WHEN">%s</ns1:g>"</string>
+    <string msgid="6498631574145121862" name="meeting_where">"နေရာ: <ns1:g id="WHERE">%s</ns1:g>"</string>
+    <string msgid="6955451921925210944" name="policy_app_blacklist">"သတ်မှတ် appများကို ခွင့်မပြု"</string>
+    <string msgid="73673250614393830" name="policy_app_whitelist">"သတ်မှတ် appများကိုသာ ခွင့်ပြု"</string>
+    <string msgid="2877695021606992022" name="policy_bluetooth_restricted">"ဘလူးတုသ် သုံးမှုကို ကန့်သတ်ရန်"</string>
+    <string msgid="8422502533001368811" name="policy_dont_allow_attachments">"ပူးတွဲမှုများကို ခွင့်မပြု"</string>
+    <string msgid="241728112385525092" name="policy_dont_allow_browser">"ဘရောင်ဇာများကို ခွင့်မပြုပါ"</string>
+    <string msgid="2473755560531860915" name="policy_dont_allow_consumer_email">"ဈေးရောင်း အီးမေးလ်ကို ခွင့်မပြု"</string>
+    <string msgid="3909470006782362967" name="policy_dont_allow_html">"HTML အီးမေးလ်ကို ခွင့်မပြုပါ"</string>
+    <string msgid="8926902533477728994" name="policy_dont_allow_internet_sharing">"အင်တာနက် မျှဝေမှုကို ခွင့်မပြုပါ"</string>
+    <string msgid="8230803019935893114" name="policy_dont_allow_irda">"အနီလွန် ဆက်သွယ်မှုများကို ခွင့်မပြု"</string>
+    <string msgid="5772539239469636191" name="policy_dont_allow_pop_imap">"POP3 သို့မဟုတ် IMAP အကောင့်များကို ခွင့်မပြုပါ"</string>
+    <string msgid="1305111581282078881" name="policy_dont_allow_storage_cards">"သိုလှောင်ရေး ကဒ်များ ခွင့်မပြုပါ"</string>
+    <string msgid="860590081742537792" name="policy_dont_allow_text_messaging">"စာသား ပို့ခြင်းကို ခွင့်မပြုပါ"</string>
+    <string msgid="7663879438028397642" name="policy_dont_allow_unsigned_apps">"လက်မှတ် မထိုးထားသည့် appများကို ခွင့်မပြု"</string>
+    <string msgid="8227232531632246827" name="policy_dont_allow_unsigned_installers">"လက်မှတ် မထိုးထားသည့် app တပ်ဆင်သူများကို ခွင့်မပြု"</string>
+    <string msgid="8501275982154914194" name="policy_dont_allow_wifi">"ကြိုးမဲ့ကို ခွင့်မပြု"</string>
+    <string msgid="4913206221060438112" name="policy_html_truncation">"HTML အီးမေးလ် ဆိုက်ကို ကန့်သတ်ပါ"</string>
+    <string msgid="8872049367518056209" name="policy_max_attachment_size">"ပူးတွဲမှု ဆိုက်ကို ကန့်သတ်"</string>
+    <string msgid="4176146021220010140" name="policy_require_encryption">"ကိရိယာ လျှို့ဝှက်ကုဒ်သွင်းမှု လိုအပ်"</string>
+    <string msgid="4779633041935012627" name="policy_require_manual_sync_roaming">"ရိုမင်း အတွင်း လက်ဖြင့် စင့်က်လုပ်မှုသာ ခွင့်ပြု"</string>
+    <string msgid="3911913080904633038" name="policy_require_sd_encryption">"SD ကဒ် လျှို့ဝှက်ကုဒ်သွင်းမှု လိုအပ်"</string>
+    <string msgid="6445017199744800426" name="policy_require_smime">"SMIME စာများ လိုအပ်"</string>
+    <string msgid="2098855720139889616" name="policy_text_truncation">"အီးမေးလ် စာသား ဆိုက်ကို ကန့်သတ်ရန်"</string>
+</resources>
