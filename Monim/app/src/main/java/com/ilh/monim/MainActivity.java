@@ -48,9 +48,9 @@ public class MainActivity extends AppCompatActivity {
 
     private boolean CheckUdid(String Udid)
     {
-        if (Udid.equals("32a3a9911ba528ad") || Udid.equals("d7b9bb80351f2c81") || Udid.equals("7d361b31a68e9031") ||
-                Udid.equals("5c1b21dd658e36d8") || Udid.equals("2777001b41376134") ||
-                Udid.equals("1b11567010d0ed55") || Udid.equals("1a262cd05c9c76fc") || Udid.equals("3db52682caefd996")|| Udid.equals("13fa29919cbe2894")| Udid.equals("8974f50812926b95"))
+        if (Udid.equals("622a169c0ad7a75b") || Udid.equals("3D7A9262D8B61491") || Udid.equals("c97334b0bd81fa2")/* ||
+               Udid.equals("5c1b21dd658e36d8") || Udid.equals("2777001b41376134") ||
+                Udid.equals("1b11567010d0ed55") || Udid.equals("1a262cd05c9c76fc") || Udid.equals("3db52682caefd996")|| Udid.equals("13fa29919cbe2894")| Udid.equals("8974f50812926b95")*/)
         {
 
             return true;
