@@ -27,18 +27,11 @@ public class MainActivity extends AppCompatActivity {
                 Snackbar.make(view, "Refreshing", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
                 WebView myWebView = (WebView) findViewById(R.id.MoninView);
-                //myWebView.loadUrl("http://ilh-printlog:3000/bk/dev7/");
-              //  EditText et = (EditText)findViewById(R.id.editText);
-              //  myWebView.loadUrl(et.getText().toString());
                 WebSettings webSettings = myWebView.getSettings();
                 webSettings.setJavaScriptEnabled(true);
-                //myWebView.reload();
             }
         });
-       //EditText et = (EditText)findViewById(R.id.editText);
-      //  et.setText("http://62.0.30.243/bk/dev10/index.html");
-       // TextView tv = (TextView)findViewById(R.id.UDIDtextView);
-      //  tv.setText(android.provider.Settings.System.getString(super.getContentResolver(), android.provider.Settings.Secure.ANDROID_ID));]
+
         String Udid = android.provider.Settings.System.getString(super.getContentResolver(), android.provider.Settings.Secure.ANDROID_ID);
 
         //Udid ="7d361b31a68e9031";
@@ -47,7 +40,6 @@ public class MainActivity extends AppCompatActivity {
             WebSettings webSettings = myWebView.getSettings();
             webSettings.setJavaScriptEnabled(true);
             myWebView.loadUrl("http://62.0.30.244/?restricted=" + Udid);
-            //myWebView.loadUrl("http://www.israelhayom.co.il");
         }
         else
         {
